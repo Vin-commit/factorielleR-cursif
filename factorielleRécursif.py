@@ -1,6 +1,7 @@
 ﻿#!/usr/bin/python3
 # coding: utf-8
 
+# L'équivalent pour hp48 : http://deveweb.free.fr/factorielleHp48.php
 
 # Le nombre d'appels récursifs possibles dépend de la valeur de n.
 def factorial(n):
